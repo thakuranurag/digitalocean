@@ -1,5 +1,3 @@
-package major;
-
 import  java.util.*;
 import java.io.*;
 import java.io.FileReader;
